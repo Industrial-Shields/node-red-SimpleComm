@@ -1,3 +1,3 @@
-# node-red-contrib-simplecomm-node
+# node-red-SimpleComm
 
 TODO

@@ -1,4 +1,4 @@
-const simplecomm = require("simplecomm");
+const simplecomm = require("@industrial-shields/simplecomm");
 
 module.exports = function(RED) {
 	function SimpleCommInNode(config) {
